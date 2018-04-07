@@ -1,5 +1,4 @@
 ﻿using System;
-using Diary.Model;
 using Diary.ViewModel;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

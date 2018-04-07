@@ -1,0 +1,14 @@
+#BEGIN
+#ID
+1
+#DATE
+07-Apr-18
+#TITLE
+Something amazing happened
+#CONTENT
+Not much. Cleaning.
+#THOUGHTS
+Nothing. My head is empty.
+#TAGS
+sample, top
+#END

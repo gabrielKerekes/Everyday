@@ -150,7 +150,6 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\DiaryEntriesController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -171,14 +170,11 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Diary.Model\Diary.Model.csproj">
-      <Project>{9A4ED57F-2514-443B-B179-CDE638F86CC1}</Project>
+      <Project>{d4ccd706-4095-476b-817d-25f348984f91}</Project>
       <Name>Diary.Model</Name>
     </ProjectReference>
   </ItemGroup>

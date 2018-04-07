@@ -161,7 +161,7 @@
       <Name>Diary.CloudClient</Name>
     </ProjectReference>
     <ProjectReference Include="..\..\Diary.Model\Diary.Model.csproj">
-      <Project>{0ba12948-91b4-4a00-ba63-762578191692}</Project>
+      <Project>{5f8eb016-e627-4d31-9655-694a3bab9eb4}</Project>
       <Name>Diary.Model</Name>
     </ProjectReference>
   </ItemGroup>

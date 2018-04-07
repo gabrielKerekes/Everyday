@@ -57,6 +57,7 @@ namespace Diary.CloudClient
                     streamWriter.Close();
                 }
 
+                // todo: some response should actually be sent
                 using (var response = (HttpWebResponse)request.GetResponse())
                 using (var stream = response.GetResponseStream())
                 using (var reader = new StreamReader(stream))
@@ -90,6 +91,7 @@ namespace Diary.CloudClient
                     streamWriter.Close();
                 }
 
+                // todo: some response should actually be sent
                 using (var response = (HttpWebResponse) request.GetResponse())
                 using (var stream = response.GetResponseStream())
                 using (var reader = new StreamReader(stream))
