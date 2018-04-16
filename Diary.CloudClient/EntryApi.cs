@@ -9,7 +9,7 @@ namespace Diary.CloudClient
 {
     public static class EntryApi
     {
-        private const string ResourceUri = "http://localhost:57038/api/diaryentries";
+        private const string ResourceUri = "http://192.168.100.11:57038/api/diaryentries";
 
         // todo: refactor
         // todo: error handling

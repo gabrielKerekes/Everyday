@@ -1,0 +1,14 @@
+#BEGIN
+#ID
+0
+#DATE
+01-Jan-01
+#TITLE
+
+#CONTENT
+
+#THOUGHTS
+
+#TAGS
+
+#END
